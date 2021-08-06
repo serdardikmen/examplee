@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\serda\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\serda\\.nuget\\packages",
+      "D:\\Yeni klasör (2)\\NuGetPackages"
+    ]
+  }
+}
